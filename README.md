@@ -1,5 +1,5 @@
-# oibsip_task3
-TASK 3: ATM Interface
+# ATM 
+
 This is an ATM Interface program with basic ATM Functionalities:
 1. Check Bank Balance
 2. Withdraw
